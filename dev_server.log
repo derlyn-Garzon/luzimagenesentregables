@@ -1,0 +1,10 @@
+
+> viaje-de-vida@1.0.0 dev
+> vite --port 3000
+
+
+  VITE v5.4.21  ready in 289 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://192.168.0.2:3000/
+5:11:52 PM [vite] hmr update /src/components/ClientePortal.jsx, /src/index.css
